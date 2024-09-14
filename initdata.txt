@@ -1,0 +1,1 @@
+query_id=AAFvpAI-AwAAAG-kAj4ybERS&user=%7B%22id%22%3A7482811503%2C%22first_name%22%3A%22Kondeski%22%2C%22last_name%22%3A%22Lopar%22%2C%22username%22%3A%22Kondeskilopar%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726298203&hash=ff7cd53647beae86671b506b876b3c650c4f967ec0b7bd22a5c9a2a32c9c493b
